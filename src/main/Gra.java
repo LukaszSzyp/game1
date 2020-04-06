@@ -1,3 +1,5 @@
+package main;
+
 public class Gra {
     public void gameOfLife(int[][] board) {
         int[][] newBord = new int[board.length][board[0].length];
